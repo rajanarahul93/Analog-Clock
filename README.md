@@ -4,8 +4,6 @@ Welcome to the Analog Clock project! This simple web application displays an ele
 
 ## Preview
 
-![Analog Clock Preview](/preview.png)
-
 ## Features
 
 - **Real-Time Updates:** The clock hands (hour, minute, and second) dynamically update to reflect the current time.
